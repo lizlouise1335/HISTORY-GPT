@@ -7,9 +7,6 @@ The code accounts for token limit (so you should never hit a token limit), but t
 Needed to run:
 OpenAI API key 
 
-Cost to run:
-~3 cents per 1000 tokens
-
 
 
 ** In Progress **
